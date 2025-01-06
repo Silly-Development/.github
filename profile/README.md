@@ -9,3 +9,5 @@ Welcome to the **Silly Development Free Panel**, your go-to platform for hosting
 - **🌍 Global Accessibility:** Your projects are accessible from anywhere in the world.
 ## **About Silly Development**
 Visit our website at [sillydev.co.uk](https://sillydev.co.uk) for more information.
+
+This readme was made by chatgpt btw.
